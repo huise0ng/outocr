@@ -1,4 +1,4 @@
-## outocr
+## [outocr](https://www.npmjs.com/package/outocr)
 > outocr은 개발자의 코드 리뷰를 위해 만들어진 라이브러리입니다. 현재 자바스크립트, 리엑트의 간단한 오류에 대해서 코드 리뷰가 가능합니다.
 
 ## 설치
@@ -11,7 +11,7 @@ npm install outocr
 
 --- 
 
-## outocr
+## [outocr](https://www.npmjs.com/package/outocr)
 > outocr is a library created for developers' code reviews. Code reviews are currently available for simple errors in JavaScript and Rekt.
 
 ## Installation
