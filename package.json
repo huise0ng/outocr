@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/outocr.git"
+    "url": "https://github.com/huise0ng/outocr"
   },
   "keywords": [
     "eslint",
@@ -16,7 +16,7 @@
     "code review",
     "automation"
   ],
-  "author": "Your Name",
+  "author": "outocr",
   "license": "MIT",
   "devDependencies": {
     "@babel/eslint-parser": "^7.24.8",
