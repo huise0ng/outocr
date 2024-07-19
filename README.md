@@ -32,5 +32,5 @@ npx eslint / file path / filename
 ## Required work
 - Modified to review not only simple code but also in-depth code
 
-## LICENSE
-MIT © huise0ng, Inc. See LICENSE for details.
+## [LICENSE](https://github.com/huise0ng/outocr/blob/master/LICENSE)
+MIT © huise0ng, Inc. 
