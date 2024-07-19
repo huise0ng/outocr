@@ -6,6 +6,11 @@
 npm install outocr
 ```
 
+## 실행
+```shell
+npx eslint /파일경로/파일명
+```
+
 ## 필요한 작업
 - 간단한 코드 뿐만 아니라 심도 있는 코드도 리뷰 할 수 있도록 수정
 
@@ -19,5 +24,13 @@ npm install outocr
 npm install outocr
 ```
 
+## Execute
+```shell
+npx eslint / file path / filename
+```
+
 ## Required work
 - Modified to review not only simple code but also in-depth code
+
+## LICENSE
+MIT © huise0ng, Inc. See LICENSE for details.
