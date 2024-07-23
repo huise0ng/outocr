@@ -1,6 +1,6 @@
 {
   "name": "outocr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A code review automation tool for ensuring code quality and style compliance.",
   "main": "index.js",
   "scripts": {
